@@ -7,3 +7,5 @@ Conversiones
  
 Elementos de estructura
 Operadores: comparación, lógica, control
+
+1) Instalar node.js
